@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>background</title>
+	<style type="text/css">
+		#cat{
+			width: 500px;
+			height: 500px;
+			background-color: green;
+		}
+	</style>
+</head>
+<body>
+<div id="cat">dogs are better than cats</div>
+</body>
+</html>
